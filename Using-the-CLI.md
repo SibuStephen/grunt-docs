@@ -2,7 +2,7 @@
 
 Run `sudo npm install -g grunt-cli`.
 
-The `grunt` command-line interface comes with a series of options (You may only need to use sudo (for OSX, *nix, BSD etc)). Use `grunt -h` from your terminal to show these options.
+The `grunt` command-line interface comes with a series of options (Windows users should omit "sudo", and may need to run the command-line with elevated privileges). Use `grunt -h` from your terminal to show these options.
 
 ### --help, -h
 Display help text
